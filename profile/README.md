@@ -8,7 +8,7 @@ Our core focus is pre-rendering for SEO and AI discovery: a bot-aware middleware
 
 > Make your website easier to crawl, easier to index, and easier to cite.
 
-⸻
+----
 
 ## What we build
 
@@ -42,7 +42,7 @@ This helps teams solve common technical SEO problems such as:
 * Webflow, Next.js, React, Vue, Angular, and SPA websites
 * Websites deployed on platforms where adding server-side middleware is difficult
 
-⸻
+----
 
 ## Why pre-rendering matters
 
@@ -65,7 +65,7 @@ These clients do not always behave like normal users. Some execute JavaScript sl
 
 ostr.io gives these clients a faster, cleaner, more predictable version of your pages.
 
-⸻
+----
 
 ## Key service areas
 
@@ -87,7 +87,7 @@ Serve optimized HTML snapshots to crawlers while keeping the regular application
 
 Business outcome: better crawlability, faster indexing, improved SERP presentation, and stronger AI-readiness.
 
-⸻
+----
 
 ### 2. SEO consulting and technical audits
 
@@ -113,7 +113,7 @@ We help teams improve the technical foundation of their website, including:
 
 > __Business outcome:__ fewer technical blockers, cleaner search visibility, and better conversion of existing content into organic reach. [Book comprehensive SEO audit](https://cal.com/seo-boostcamp/quick-audit).
 
-⸻
+----
 
 ### 3. Content production guidelines
 
@@ -134,7 +134,7 @@ We help teams build content systems that scale.
 
 > __Business outcome:__ more consistent content production with less editorial drift and better organic leverage. [Book free intro call](https://cal.com/seo-boostcamp/free-seo-aeo-intro-call).
 
-⸻
+----
 
 ### 4. Pre-rendering CDN
 
@@ -153,7 +153,7 @@ It is designed for websites that need clean, fast, crawler-friendly delivery wit
 
 > __Business outcome:__ CDN-level performance with technical SEO baked into the delivery layer.
 
-⸻
+----
 
 ### 5. Website monitoring services
 
@@ -189,7 +189,7 @@ Run scheduled HTTP jobs:
 * Replace fragile server cron setups
 * Monitor execution responses
 
-⸻
+----
 
 ## Key resources
 
@@ -229,7 +229,7 @@ Free tools and respources related to SEO:
 - [Learn more about prerendering services and compare with other tools](https://prerender.info/)
 - [Prerendering.com](https://prerendering.com/)
 
-⸻
+----
 
 ## Integration patterns
 
@@ -261,7 +261,7 @@ Typical stacks include:
 * Documentation websites
 * Large content portals
 
-⸻
+----
 
 ## Who uses ostr.io
 
@@ -291,7 +291,7 @@ Support large content libraries, multilingual websites, and frequent content upd
 
 Add technical SEO infrastructure to client projects without forcing a full replatform.
 
-⸻
+----
 
 ## Typical outcomes
 
@@ -333,7 +333,7 @@ A new real estate website in niche market with low default performance and 14,00
 <img width="1964" height="1174" alt="gsc-index-3" src="https://github.com/user-attachments/assets/1e2850a8-792c-4109-a6e0-0e6b3dc467f6" />
 <img width="1898" height="814" alt="gsc-index-speed-3" src="https://github.com/user-attachments/assets/601a8796-92a1-4c3e-9973-2486d0a5563d" />
 
-⸻
+----
 
 ## Why teams choose ostr.io
 
@@ -348,7 +348,7 @@ A new real estate website in niche market with low default performance and 14,00
 * Practical implementation support
     We help with setup, diagnostics, configuration, and measurable SEO improvements.
 
-⸻
+----
 
 ## Repository scope
 
@@ -366,7 +366,7 @@ This GitHub organization may include:
 
 Each repository includes its own README with usage, setup, and contribution details where applicable.
 
-⸻
+----
 
 ## Get started
 
@@ -381,13 +381,13 @@ Start with:
 5. Monitor crawl performance and indexation changes.
 6. Improve page structure and content systems.
 
-⸻
+----
 
 ## Contact
 
 For pre-rendering, SEO consulting, technical audits, or integration support, visit ostr.io.
 
-⸻
+----
 
 ## Motto
 
